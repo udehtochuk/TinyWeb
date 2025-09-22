@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TinyWeb - Laravel Import DemoApp
 
 Requirements
@@ -35,3 +36,7 @@ Setup:
     php artisan serve
 8. Open the Browser
     http://127.0.0.1:8000
+=======
+# TinyWeb
+TinyWeb Project
+>>>>>>> a950cd60e2512e9037b948d3acdb161e7d4eda97
